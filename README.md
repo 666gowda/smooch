@@ -1,10 +1,10 @@
 <div align="center">
 
-# 💖 SMOOCH
+# SMOOCH
 
 ### Your Own Companion
 
-*An expressive AI companion that comes to life with personality—and can speak in a voice that's personal to you.*
+*A small AI companion designed to feel personal — even speaking in a voice that's meaningful to you.*
 
 <img src="images/smooch_v1.png" width="350">
 
@@ -16,62 +16,59 @@
 
 ---
 
-# ✨ About
+# About
 
-SMOOCH is a compact AI companion designed to create playful and emotional interactions through expressive facial animations, natural voice interactions, and a unique personality.
+SMOOCH is a compact AI companion designed to feel less like a device and more like a character.
 
-Unlike traditional smart assistants, SMOOCH is built to feel like a living character with its own attitude, charm, and emotions.
+It combines expressive facial animations, natural voice interaction, and a playful personality to create an experience that's fun to keep around, whether it's on your desk, bedside table, or shelf.
 
-A key feature of SMOOCH is **Personalized Voice**. Customers can choose to have their companion shipped with a custom voice created from a voice sample they provide (with appropriate permission), making every SMOOCH a truly personal companion from the moment it arrives.
-
-Whether placed on a desk, bedside table, or shelf, SMOOCH is designed to be more than a gadget—it's a companion.
+One of the main ideas behind SMOOCH is **personalized voice**. Customers can choose to have their companion prepared with a custom voice created from a voice sample they provide (with the necessary permission), making every SMOOCH feel a little more personal from day one.
 
 ---
 
-# 🌟 Key Features
+# Features
 
-- 🤍 Cute collectible companion
-- ❤️ Personalized voice
-- 😊 Expressive animated face
-- 🎙️ Natural voice interaction
-- 💬 Personality-driven conversations
-- 🎭 Dynamic facial expressions
-- 🔋 Portable desktop companion
-- 🧠 Character-focused experience
-
----
-
-# ❤️ Personalized Voice
-
-SMOOCH allows customers to personalize their companion with a custom voice.
-
-By providing a voice sample with the necessary permission, your SMOOCH can be prepared to speak using that personalized voice before it is shipped, creating a companion that feels uniquely yours.
-
-To protect proprietary technology, implementation details are intentionally not included in this repository.
+- Compact companion design
+- Expressive animated face
+- Natural voice interaction
+- Personality-driven conversations
+- Personalized voice option
+- Rechargeable portable design
+- Built for future expansion
 
 ---
 
-# 🎯 Vision
+# Personalized Voice
 
-Our vision is to make AI companionship feel genuinely personal.
+SMOOCH can be prepared with a personalized voice before it's shipped.
 
-SMOOCH combines expressive animations, personality, and personalized voices to create a character users can connect with emotionally. As the platform evolves, additional characters and personalities will expand the SMOOCH family while preserving the same core experience.
+With the appropriate permission, customers can provide a voice sample to create a companion that speaks in a familiar voice while still keeping the SMOOCH personality.
 
----
-
-# 🚀 Project Status
-
-Current development stage:
-
-- ✅ Product concept
-- ✅ Behaviour specification
-- 🚧 Hardware development
-- 🚧 Firmware development
-- ⏳ Prototype manufacturing
+The technology used to achieve this is proprietary and is not included in this repository.
 
 ---
 
-# 📂 Repository Structure
+# Vision
+
+The goal of SMOOCH is simple: build a companion that people enjoy interacting with.
+
+Future versions will introduce new characters, personalities, and customization options while continuing to build on the same platform.
+
+---
+
+# Project Status
+
+Current progress:
+
+- Product concept complete
+- Documentation in progress
+- Hardware under development
+- Firmware under development
+- Prototype in progress
+
+---
+
+# Repository Structure
 
 ```text
 docs/
@@ -81,6 +78,7 @@ docs/
 
 images/
     smoooch_v1.png
+    male_concept.png
 
 assets/
 
@@ -90,42 +88,38 @@ firmware/
 
 ---
 
-# 📖 Documentation
+# Documentation
 
-This repository contains public documentation describing the product vision and high-level design.
-
-Current documentation includes:
+This repository contains public information about the project, including:
 
 - Product overview
 - Hardware overview
 - Development roadmap
 
-Detailed firmware architecture, source code, electronics design, and proprietary implementation details are intentionally excluded.
+Detailed firmware, electronics, manufacturing files, and other proprietary implementation details are intentionally not included.
 
 ---
 
-# ⚠️ Notice
+# Notice
 
-This repository showcases the public vision of **SMOOCH**.
+This repository is intended to share the public side of the project.
 
-Technical implementation details, firmware, manufacturing data, and proprietary technologies are intentionally withheld.
+Technical implementation details, source code, manufacturing information, and proprietary technologies are intentionally withheld.
 
 ---
 
-# 📄 License
+# License
 
 This project is proprietary.
 
-All rights reserved.
-
-No part of this repository may be copied, modified, or redistributed without prior written permission.
+All rights reserved. No part of this repository may be copied, modified, or redistributed without prior written permission.
 
 ---
 
 <div align="center">
 
-### Made with ❤️ by **Yashas Dinesh**
+**Built by Yashas Dinesh**
 
-*Not just another AI assistant. A companion that's truly yours.*
+*Building a companion that feels personal.*
 
 </div>
