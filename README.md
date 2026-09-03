@@ -1,0 +1,2 @@
+# smooch
+Your own companion
